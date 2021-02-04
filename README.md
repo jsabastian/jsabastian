@@ -1,5 +1,5 @@
 # :trophy: 2020 "Life of the Data Party" Award Winner :trophy:
-<img src="https://media.giphy.com/media/y3wBjXMffuFjy/giphy.gif" width="3000px" height="200px">
+<img src="https://media.giphy.com/media/d2YVPRhQXI5FxJRe/giphy.gif" width="3000px" height="250px">
 
 
 I'm also just a boy, sitting in front of a latte, asking it to love me.
