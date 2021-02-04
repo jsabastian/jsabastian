@@ -1,4 +1,5 @@
-# ->:trophy: 2020 "Life of the Data Party" Award Winner :trophy:<-
+<p align="center">
+# :trophy: 2020 "Life of the Data Party" Award Winner :trophy:
 <img src="https://media.giphy.com/media/d2YVPRhQXI5FxJRe/giphy.gif" width="3000px" height="250px">
 
 
