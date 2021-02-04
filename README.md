@@ -1,4 +1,3 @@
-<div class="text-align-center">
 :trophy: 2020 "Life of the Data Party" Award Winner :trophy:
 <img src="https://media.giphy.com/media/d2YVPRhQXI5FxJRe/giphy.gif" width="3000px" height="250px">
 
@@ -29,4 +28,3 @@ I'm also just a boy, sitting in front of a latte, asking it to love me.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jsabastian&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsabastian&hide=TeX&layout=compact)
 
-</div>
