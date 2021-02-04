@@ -1,6 +1,9 @@
-### Hi there 👋
-### You are visitor #
+### What it do...
+
 <br>![Visitor Count](https://profile-counter.glitch.me/{jsabastian}/count.svg)
+
+<br><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+
 <!--
 **jsabastian/jsabastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
