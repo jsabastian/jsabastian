@@ -1,8 +1,9 @@
 # :trophy: 2020 "Life of the Data Party" Award Winner :trophy:
 <img src="https://media.giphy.com/media/d2YVPRhQXI5FxJRe/giphy.gif" width="3000px" height="250px">
 
+<p align="center">
 
-<div align="center">I'm also just a boy, sitting in front of a latte, asking it to love me.
+I'm also just a boy, sitting in front of a latte, asking it to love me.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-jsabastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsabastian/)](https://www.linkedin.com/in/anirudhemmadi/)
@@ -28,3 +29,4 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jsabastian&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsabastian&hide=TeX&layout=compact)
 
+</p>
