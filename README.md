@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/t4g6ixKJAA2mA/giphy.gif" width="2500px" height="350px">
+<img src="https://media.giphy.com/media/l4FGBaLUxNAPiHROE/giphy.gif" width="500px" height="500px">
 
 :trophy: 2020 "Life of the Data Party" Award Winner :trophy:<br>
 I'm also just a boy, sitting in front of a latte, asking it to love me.
