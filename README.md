@@ -3,7 +3,8 @@
 <img src="https://media.giphy.com/media/l4FGBaLUxNAPiHROE/giphy.gif" width="400px" height="400px">
 
 :trophy: 2020 "Life of the Data Party" Award Winner :trophy:<br>
-My values: Integrity, Service before self, and Excellence in all I do. I'm also just a boy, sitting in front of a latte, asking it to love me.
+My values: Integrity, Service before self, and Excellence in all I do.
+I'm also just a boy, sitting in front of a latte, asking it to love me.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-jsabastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsabastian/)](https://www.linkedin.com/in/jsabastian/)
