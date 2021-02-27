@@ -29,6 +29,6 @@ I'm also just a boy, sitting in front of a latte, asking it to love me.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jsabastian&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsabastian&hide=TeX&layout=compact)
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{jsabastian}/count.svg)
 
 </div>
