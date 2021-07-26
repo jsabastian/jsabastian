@@ -4,7 +4,6 @@
 
 :trophy: 2020 "Life of the Data Party" Award Winner :trophy:<br>
 Core Values: Integrity, Service Before Self, and Excellence in All I Do.<br>
-I'm also just a boy, sitting in front of a latte, asking it to love me.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-jsabastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsabastian/)](https://www.linkedin.com/in/jsabastian/)
