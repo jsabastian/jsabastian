@@ -3,7 +3,6 @@
 <img src="https://media.giphy.com/media/l4FGBaLUxNAPiHROE/giphy.gif" width="400px" height="400px">
 
 :trophy: 2020 "Life of the Data Party" Award Winner :trophy:<br>
-Core Values: Integrity, Service Before Self, and Excellence in All I Do.<br>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-jsabastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsabastian/)](https://www.linkedin.com/in/jsabastian/)
