@@ -23,7 +23,6 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-<img src="https://img.shields.io/badge/Apple-iMac_Pro_2018-999999?style=for-the-badge&logo=apple&logoColor=white">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jsabastian&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsabastian&hide=TeX&layout=compact)
